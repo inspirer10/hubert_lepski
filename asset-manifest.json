@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hubert_lepski/static/css/main.63c54481.css",
-    "main.js": "/hubert_lepski/static/js/main.996db916.js",
+    "main.css": "/hubert_lepski/static/css/main.4ee09c38.css",
+    "main.js": "/hubert_lepski/static/js/main.c61d9995.js",
     "static/media/photo2.png": "/hubert_lepski/static/media/photo2.9ab567c7a5b48941b457.png",
     "index.html": "/hubert_lepski/index.html",
-    "main.63c54481.css.map": "/hubert_lepski/static/css/main.63c54481.css.map",
-    "main.996db916.js.map": "/hubert_lepski/static/js/main.996db916.js.map"
+    "main.4ee09c38.css.map": "/hubert_lepski/static/css/main.4ee09c38.css.map",
+    "main.c61d9995.js.map": "/hubert_lepski/static/js/main.c61d9995.js.map"
   },
   "entrypoints": [
-    "static/css/main.63c54481.css",
-    "static/js/main.996db916.js"
+    "static/css/main.4ee09c38.css",
+    "static/js/main.c61d9995.js"
   ]
 }
