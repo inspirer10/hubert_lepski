@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/hubert_lepski/static/css/main.c90e348b.css",
+    "main.css": "/hubert_lepski/static/css/main.2f1613aa.css",
     "main.js": "/hubert_lepski/static/js/main.460bc213.js",
     "static/media/photo2.png": "/hubert_lepski/static/media/photo2.02deac2e20e6195a1367.png",
+    "static/media/statue-of-david2.svg": "/hubert_lepski/static/media/statue-of-david2.a30d2475db57791c85d0.svg",
     "index.html": "/hubert_lepski/index.html",
-    "main.c90e348b.css.map": "/hubert_lepski/static/css/main.c90e348b.css.map",
+    "main.2f1613aa.css.map": "/hubert_lepski/static/css/main.2f1613aa.css.map",
     "main.460bc213.js.map": "/hubert_lepski/static/js/main.460bc213.js.map"
   },
   "entrypoints": [
-    "static/css/main.c90e348b.css",
+    "static/css/main.2f1613aa.css",
     "static/js/main.460bc213.js"
   ]
 }
